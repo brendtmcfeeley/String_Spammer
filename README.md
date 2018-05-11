@@ -18,6 +18,7 @@ python3 string_spammer.py <arg1> <arg2>
 ```
 
 Arg1 is the desired string you want to spam.
+
 Arg2 (Optional) is the character limit of the program you want to spam it in.
   - If no limit is specified, the program will default on a 1000 character limit.
 
